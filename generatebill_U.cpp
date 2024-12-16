@@ -24,7 +24,8 @@ void generateBill() {
     cout << "Nights: " << nights << "\n";
     cout << "Total Price: $ “<< totalPrice << "\n";
     cout << "-----------------\n";
+
 }
 
 
-                cout << 
+            
