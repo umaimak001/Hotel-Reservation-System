@@ -22,7 +22,7 @@ void generateBill() {
     cout << "Customer Name: " << customers[customerID - 1] << "\n";
     cout << "Room Type: " << (roomType == 1 ? "Single" : roomType == 2 ? "Double" : "Suite") << "\n";
     cout << "Nights: " << nights << "\n";
-    cout << "Total Price: Rs. “<< totalPrice << "\n";
+    cout << "Total Price: $ “<< totalPrice << "\n";
     cout << "-----------------\n";
 }
 
